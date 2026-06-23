@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sozdan2016/TVReader/releases/latest">
+  <a href="https://github.com/Sozdan2016/TVReader-releases/releases/latest">
     <img src="https://img.shields.io/github/v/release/Sozdan2016/TVReader?label=Download%20APK&style=for-the-badge" alt="Download APK"/>
   </a>
   &nbsp;
@@ -96,7 +96,7 @@ TV Reader was designed from scratch for the remote control. Every screen, every 
 
 TV Reader is distributed as an APK — no Google Play account required.
 
-1. Download the latest APK from the [**Releases**](https://github.com/Sozdan2016/TVReader/releases/latest) page
+1. Download the latest APK from the [**Releases**](https://github.com/Sozdan2016/TVReader-releases/releases/latest) page
 2. On your Android TV: **Settings → Device Preferences → Security → Unknown Sources → ON**
 3. Transfer the APK to your TV (USB drive, file manager, or sideloading tool of your choice)
 4. Install and open
