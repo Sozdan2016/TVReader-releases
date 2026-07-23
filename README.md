@@ -10,7 +10,7 @@
 
 <p align="center">
  <a href="https://github.com/Sozdan2016/TVReader-releases/releases/latest">
-  <img src="https://img.shields.io/badge/Download%20APK-v1.0.0-blue?style=for-the-badge" alt="Download APK"/>
+  <img src="https://img.shields.io/badge/Download%20APK-v1.0.1-blue?style=for-the-badge" alt="Download APK"/>
 </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Platform-Android%20TV-green?style=for-the-badge" alt="Android TV"/>
