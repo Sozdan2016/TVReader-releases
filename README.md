@@ -10,7 +10,7 @@
 
 <p align="center">
  <a href="https://github.com/Sozdan2016/TVReader-releases/releases/latest">
-  <img src="https://img.shields.io/badge/Download%20APK-v1.0.2-blue?style=for-the-badge" alt="Download APK"/>
+  <img src="https://img.shields.io/github/v/release/Sozdan2016/TVReader-releases?label=Download%20APK&style=for-the-badge" alt="Download APK"/>
 </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Platform-Android%20TV-green?style=for-the-badge" alt="Android TV"/>
@@ -101,7 +101,7 @@ TV Reader is distributed as an APK — no Google Play account required.
 3. Transfer the APK to your TV (USB drive, file manager, or sideloading tool of your choice)
 4. Install and open
 
-> **Minimum Android version:** Android 5.1 — works on most Android TV boxes and smart TVs from 2016 onward.
+> **Minimum Android version:** Android 7.0 — works on most Android TV boxes and smart TVs from 2017 onward.
 
 ---
 
@@ -141,13 +141,13 @@ Nothing promised, but things actively in progress:
 
 ## Support
 
-TV Reader is free with no feature limits. If you find it useful and want to support continued development, there's a subscription option inside the app.
+TV Reader is free with no feature limits and no ads. If you find it useful, you can support continued development from the **About** screen inside the app — there are links to GitHub Sponsors and Ko-fi there.
 
 ---
 
 ## License
 
-Source code is available in this repository.
+The source lives in a private repository; this one carries the releases.
 
 ---
 
