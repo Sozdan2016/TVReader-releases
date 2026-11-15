@@ -83,7 +83,7 @@ TV Reader was designed from scratch for the remote control. Every screen, every 
 | Format | Notes |
 |--------|-------|
 | EPUB | Full support including embedded images |
-| FB2 | Common in Russian-language ecosystems |
+| FB2 | Popular open ebook format |
 | PDF | Scroll and page-by-page modes |
 | TXT | Plain text, adjustable font size |
 | MD | Markdown with basic rendering |
