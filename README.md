@@ -120,11 +120,10 @@ TV Reader is distributed as an APK — no Google Play account required.
 
 This is a solo project. Feedback at this stage directly shapes what gets built next.
 
-**Email: [tvreader@proton.me](mailto:tvreader@proton.me)** — bug reports, feature requests, general thoughts. I read everything.
-
-Issues on GitHub also work fine.
-
-> ⚠️ The Telegram bot ([@tvreader_bot](https://t.me/tvreader_bot)) is temporarily out of service. Use email or GitHub for now.
+- **Questions and ideas:** [GitHub Discussions](https://github.com/Sozdan2016/TVReader-releases/discussions)
+- **Bugs:** [GitHub Issues](https://github.com/Sozdan2016/TVReader-releases/issues)
+- **Telegram bot:** [@tvreader_bot](https://t.me/tvreader_bot) (the QR code in the app's About screen returns in v1.0.3)
+- **Email:** [tvreader@proton.me](mailto:tvreader@proton.me). I read everything.
 
 ---
 
